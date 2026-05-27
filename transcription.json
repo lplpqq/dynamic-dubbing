@@ -1,0 +1,170 @@
+[
+    {
+        "word": "Patient",
+        "start": 0.031,
+        "end": 0.676,
+        "score": 0.951
+    },
+    {
+        "word": "build",
+        "start": 0.756,
+        "end": 1.058,
+        "score": 0.905
+    },
+    {
+        "word": "up",
+        "start": 1.139,
+        "end": 1.22,
+        "score": 0.978
+    },
+    {
+        "word": "at",
+        "start": 1.28,
+        "end": 1.32,
+        "score": 0.969
+    },
+    {
+        "word": "the",
+        "start": 1.381,
+        "end": 1.461,
+        "score": 0.849
+    },
+    {
+        "word": "edge",
+        "start": 1.562,
+        "end": 1.663,
+        "score": 0.966
+    },
+    {
+        "word": "of",
+        "start": 1.723,
+        "end": 1.763,
+        "score": 0.973
+    },
+    {
+        "word": "the",
+        "start": 1.824,
+        "end": 1.904,
+        "score": 0.944
+    },
+    {
+        "word": "area.",
+        "start": 2.025,
+        "end": 2.267,
+        "score": 0.695
+    },
+    {
+        "word": "Oh,",
+        "start": 2.287,
+        "end": 2.408,
+        "score": 0.746
+    },
+    {
+        "word": "lovely",
+        "start": 2.509,
+        "end": 2.892,
+        "score": 0.923
+    },
+    {
+        "word": "link",
+        "start": 2.932,
+        "end": 3.274,
+        "score": 0.824
+    },
+    {
+        "word": "up",
+        "start": 3.294,
+        "end": 3.415,
+        "score": 0.982
+    },
+    {
+        "word": "play",
+        "start": 3.456,
+        "end": 3.758,
+        "score": 0.887
+    },
+    {
+        "word": "sets",
+        "start": 3.838,
+        "end": 4.12,
+        "score": 0.956
+    },
+    {
+        "word": "him",
+        "start": 4.181,
+        "end": 4.322,
+        "score": 0.991
+    },
+    {
+        "word": "up",
+        "start": 4.443,
+        "end": 4.523,
+        "score": 0.948
+    },
+    {
+        "word": "and",
+        "start": 4.584,
+        "end": 4.664,
+        "score": 0.89
+    },
+    {
+        "word": "he",
+        "start": 4.684,
+        "end": 4.765,
+        "score": 0.824
+    },
+    {
+        "word": "goes",
+        "start": 4.825,
+        "end": 5.107,
+        "score": 0.798
+    },
+    {
+        "word": "for",
+        "start": 5.148,
+        "end": 5.248,
+        "score": 0.944
+    },
+    {
+        "word": "the",
+        "start": 5.289,
+        "end": 5.349,
+        "score": 0.992
+    },
+    {
+        "word": "top",
+        "start": 5.41,
+        "end": 5.651,
+        "score": 0.998
+    },
+    {
+        "word": "corner.",
+        "start": 5.712,
+        "end": 6.014,
+        "score": 0.909
+    },
+    {
+        "word": "What",
+        "start": 6.074,
+        "end": 6.215,
+        "score": 0.944
+    },
+    {
+        "word": "a",
+        "start": 6.256,
+        "end": 6.276,
+        "score": 0.798
+    },
+    {
+        "word": "fantastic",
+        "start": 6.356,
+        "end": 7.062,
+        "score": 0.862
+    },
+    {
+        "word": "finish.",
+        "start": 7.122,
+        "end": 7.847,
+        "score": 0.913
+    }
+]
